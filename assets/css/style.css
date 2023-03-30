@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.navbar-brand img {
+    height: 2em;
+}
+
+.span-text {
+    margin-left: 20px;
+    color: #28A745;
+    font-weight: bold;
+}
+
+.card-description {
+    font-size: 14px;
+}
+
+.card-img-cover {
+    object-fit: cover;
+}
+
+.w-100 img {
+    height: 220px;
+}
+
+footer img {
+    height: 2em;
+}
